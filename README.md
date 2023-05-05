@@ -1,5 +1,5 @@
 # Carta - Menú
-https://carta-menu.netlify.app
+https://carta-menu.netlify.app  
 Una aplicación para crear una lista de platos en diferentes tableros, contiene las siguientes funcionalidades:
 
 - Creación de un nuevo tablero de platos.
