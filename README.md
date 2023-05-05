@@ -11,6 +11,7 @@ Una aplicación para crear una lista de platos en diferentes tableros, contiene 
 
 ## Mejoras:
 **Validaciones** para evitar repeticiones de:
+
 - Nombres de tableros al crear uno nuevo.
 - Al guardar los paneles si se ha editado el nombre de alguno, se valida que tampoco se repita.
 - Nombres de platos en un tablero.
