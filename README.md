@@ -21,8 +21,8 @@ Una aplicación para crear una lista de platos en diferentes tableros, contiene 
 1 git clone https://github.com/jongitdev/carta-menu.git
 2 npm install
 ```
-Paso 1: Clonar el proyecto de Github
-Paso 2: Instalar el proyecto con sus dependecians usando node
+Paso 1: Clonar el proyecto de Github  
+Paso 2: Instalar el proyecto con sus dependecians usando node  
 *Si no tienes Node, puede descrgarlo de: https://nodejs.org/es*
 
 ### Compilación para desarrollo
